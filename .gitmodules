@@ -1,0 +1,3 @@
+[submodule "lib-test-b-miguel-gremy"]
+	path = lib-test-b-miguel-gremy
+	url = https://github.com/Miguel-Gremy-Sandbox/lib-test-b-miguel-gremy.git
